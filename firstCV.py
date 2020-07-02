@@ -22,7 +22,5 @@ cv2.destroyAllWindows()
 
 
 
-cv2.imshow('Virat', img)
-cv2.waitKey(0)
 
 
