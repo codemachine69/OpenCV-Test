@@ -1,2 +1,1 @@
-Sup bitches
-You need OpenCV to run this shit
+You need OpenCV to run this.
